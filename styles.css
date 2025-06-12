@@ -1,10 +1,15 @@
-.card {
-    opacity: .8;
+.container-lg {
+    opacity: .85;
 }
 
-.container-lg {
-    opacity: .8;
+#mision {
+    opacity: .85;
 }
+
+#vision {
+    opacity: .85;
+}
+
 
 /*Profe, encontre el fondo animado por ahi pero esta pulento asi que lo dejare 10-4*/
 html {
